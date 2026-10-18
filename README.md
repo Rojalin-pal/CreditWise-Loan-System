@@ -22,3 +22,10 @@ CreditWise analyzes historical applicant profiles to predict whether a loan appl
 - **Libraries**: Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib
 
 ## 📂 Project Structure
+```
+├── credit_wise.ipynb     # Main Jupyter Notebook (EDA, preprocessing, model training)
+├── .gitignore            # Excludes dataset and cache files
+└── README.md             # Project documentation
+```
+
+> **Note**: In compliance with data privacy, the raw dataset (`loan_approval_data.csv`) is excluded from this repository via `.gitignore`.
